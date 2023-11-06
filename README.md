@@ -1,6 +1,7 @@
 # Nerual-Network
 
-initial packages:
-+ numpy =
-+ pandas =
-+ 
+### Assignment 
++ HomeWork 01
+  
+    + HomeWork 01 (optional)
++ HomeWork 02
