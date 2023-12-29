@@ -35,6 +35,14 @@ Max Iter | Hidden Layer Sizes | Test Size | Random State
 
 Now we try to display the results and outputs with 3 different boxes:
 
+Framing | 8 x 8 | 16 x 16 | 32 x 32
+--- | --- | --- | ---
+Smaller Framing | 4 x 4 | 4 x 4 | 8 x 8
+Samples Number | 3000 | 1500 | 750
+`PSNR (dB)` | 37.95 | 35.47  | 32.33
+
+
+
 Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
