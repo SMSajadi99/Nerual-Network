@@ -56,22 +56,69 @@ The results of each are listed separately:
 ![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/16x16-1500/combined_image_com.png)
 ![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/16x16-1500/combined_image_results.png)
 
-* 32 x32
+* 32 x 32
 
 ![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/32x32-750/combined_image.png)
 ![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/32x32-750/combined_image_com.png)
 ![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/32x32-750/combined_image_results.png)
 
 
+
+
+ ### Photo compression by framing the photo and subtracting the average from the total (using tensorflow library)
+
+The main photo is as follows:
+
+![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/16x16-1500/face.jpg)
+
+The Gray photo is as follows:
+
+![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/16x16-1500/bw_face.jpg)
+
+The Gray photo, from which the average is subtracted is as follows:
+
+![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method02/16x16/reconstructed_com_image.jpg)
+
+
+In the table below, the parameters that should be required for training the network are given:
+
+Epoch |  Test Size | Random State
+--- | --- | ---
+50 |  0.2 | 42
+
+Now we try to display the results and outputs with 3 different boxes:
+
+Framing | 2 x 2 | 8 x 8 | 16 x 16
+--- | --- | --- | ---
+Samples Number | 39000 | 8000 | 4000
+`PSNR (dB)` | 19.72 | 18.23  | 17.43
+
+* 2 x 2
+
+
+![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method02/2x2/bw_face.jpg)
+![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method02/2x2/reconstructed_final_2x2.jpg)
+
+
+* 8 x 8
+
+![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method02/8x8/bw_face.jpg)
+![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method02/8x8/reconstructed_final_image_8x8.jpg)
+
+
+
+* 16 x 16
+
+
+![Image Collage](![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method02/8x8/bw_face.jpg)
+![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method02/16x16/reconstructed_final_image_16x16.jpg)
+
+ 
 Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
- 
-
- ### Photo compression by framing the photo and subtracting the average from the total (using tensorflow library)
 
  
-
 
  ### Standard PCA method (this method is without neural network)
