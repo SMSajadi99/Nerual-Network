@@ -122,10 +122,14 @@ Weight | [Weight 2x2](https://github.com/SMSajadi99/Nerual-Network/blob/main/ass
  
 
  ### Standard PCA method (this method is without neural network)
+ 
+In this method, we tried to compress the photo with the PCA method, and then reconstruct it with its basic components:
 
-![Image Collage]()
-![Image Collage]()
-![Image Collage]()
-![Image Collage]()
+![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method03/bw_face.png)
+![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method03/bw_face.png)
+![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method03/Recom_150_PCA_fac.png)
+![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method03/Recom_all_PCA_fac.png)
 
+
+Be happy :)
  
