@@ -19,43 +19,10 @@ In this exercise, we want to try to compress a photo with 3 methods and reconstr
 In this method, we try to create boxes in the shape and in the same box, we create boxes whose average is placed instead of the matrix of the same box, and Sklearn library tries to reconstruct it.
 
 The main photo is as follows:
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    body {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-    }
 
-    .image-collage {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr); /* Adjust the number of columns as needed */
-      gap: 10px; /* Adjust the gap between images */
-    }
+![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/16x16-1500/face.jpg)
+![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/16x16-1500/bw_face.jpg)
 
-    .image-collage img {
-      width: 100%;
-      height: auto;
-      border-radius: 8px; /* Optional: Add rounded corners to images */
-    }
-  </style>
-</head>
-<body>
-
-<div class="image-collage">
-  <img src="https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/16x16-1500/face.jpg" alt="Image 1">
-  <img src="https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/16x16-1500/bw_face.jpg" alt="Image 2">
-  <!-- Add more images as needed -->
-</div>
-
-</body>
-</html>
 
 
 Markdown | Less | Pretty
