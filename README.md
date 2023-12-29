@@ -113,7 +113,7 @@ Weight | [Weight 2x2](https://github.com/SMSajadi99/Nerual-Network/blob/main/ass
 * 16 x 16
 
 
-![Image Collage](![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method02/8x8/bw_face.jpg)
+![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method02/8x8/bw_face.jpg)
 ![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method02/16x16/reconstructed_final_image_16x16.jpg)
 
  
