@@ -66,6 +66,8 @@ The results of each are listed separately:
 
 
  ### Photo compression by framing the photo and subtracting the average from the total (using tensorflow library)
+ 
+In this method, the entire image has been subtracted from each frame, and we have tried to reconstruct the image by moving it:
 
 The main photo is as follows:
 
@@ -117,11 +119,13 @@ Weight | [Weight 2x2](https://github.com/SMSajadi99/Nerual-Network/blob/main/ass
 ![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method02/16x16/reconstructed_final_image_16x16.jpg)
 
  
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
  
 
  ### Standard PCA method (this method is without neural network)
+
+![Image Collage]()
+![Image Collage]()
+![Image Collage]()
+![Image Collage]()
+
+ 
