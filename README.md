@@ -41,6 +41,24 @@ Smaller Framing | 4 x 4 | 4 x 4 | 8 x 8
 Samples Number | 3000 | 1500 | 750
 `PSNR (dB)` | 37.95 | 35.47  | 32.33
 
+The results of each are listed separately:
+
+* 8 x 8
+
+![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/8x8-3000/combined_image.png)
+![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/8x8-3000/combined_image_com.png)
+![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/8x8-3000/combined_image_results.png)
+  
+* 16 x16
+![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/16x16-1500/combined_image.png)
+![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/16x16-1500/combined_image_com.png)
+![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/16x16-1500/combined_image_results.png)
+
+* 32 x32
+
+![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/32x32-750/combined_image.png)
+![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/32x32-750/combined_image_com.png)
+![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/32x32-750/combined_image_results.png)
 
 
 Markdown | Less | Pretty
