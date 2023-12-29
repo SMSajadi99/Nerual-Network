@@ -21,9 +21,19 @@ In this method, we try to create boxes in the shape and in the same box, we crea
 The main photo is as follows:
 
 ![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/16x16-1500/face.jpg)
+
+The Gray photo is as follows:
+
 ![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/16x16-1500/bw_face.jpg)
 
 
+In the table below, the parameters that should be required for training the network are given:
+
+Max Iter | Hidden Layer Sizes | Test Size |
+--- | --- | --- | ---
+5000 | 400,200 | 0.05 | 42
+
+Now we try to display the results and outputs with 3 different boxes:
 
 Markdown | Less | Pretty
 --- | --- | ---
