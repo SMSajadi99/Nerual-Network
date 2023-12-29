@@ -91,7 +91,9 @@ Now we try to display the results and outputs with 3 different boxes:
 Framing | 2 x 2 | 8 x 8 | 16 x 16
 --- | --- | --- | ---
 Samples Number | 39000 | 8000 | 4000
+Weight | [Weight 2x2](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method02/2x2/image_translation_model_2x2.h5) | [Weight 8x8](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method02/8x8/image_translation_model_8x8.h5) | [Weight 16x16](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method02/16x16/image_translation_model_16x16.h5)
 `PSNR (dB)` | 19.72 | 18.23  | 17.43
+
 
 * 2 x 2
 
@@ -101,6 +103,7 @@ Samples Number | 39000 | 8000 | 4000
 
 
 * 8 x 8
+
 
 ![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method02/8x8/bw_face.jpg)
 ![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method02/8x8/reconstructed_final_image_8x8.jpg)
