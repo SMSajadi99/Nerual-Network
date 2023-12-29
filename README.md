@@ -29,7 +29,7 @@ The Gray photo is as follows:
 
 In the table below, the parameters that should be required for training the network are given:
 
-Max Iter | Hidden Layer Sizes | Test Size |
+Max Iter | Hidden Layer Sizes | Test Size | Random State
 --- | --- | --- | ---
 5000 | 400,200 | 0.05 | 42
 
