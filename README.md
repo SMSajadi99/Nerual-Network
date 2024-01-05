@@ -39,7 +39,7 @@ Framing | 8 x 8 | 16 x 16 | 32 x 32
 --- | --- | --- | ---
 Smaller Framing | 4 x 4 | 4 x 4 | 8 x 8
 Samples Number | 4000 | 2000 | 1000
-`PSNR (dB)` | 33.97 | 33.87  | 32.33
+`PSNR (dB)` | 33.97 | 33.87  | 32.22
 
 The results of each are listed separately:
 
