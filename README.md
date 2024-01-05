@@ -38,8 +38,8 @@ Now we try to display the results and outputs with 3 different boxes:
 Framing | 8 x 8 | 16 x 16 | 32 x 32
 --- | --- | --- | ---
 Smaller Framing | 4 x 4 | 4 x 4 | 8 x 8
-Samples Number | 3000 | 1500 | 750
-`PSNR (dB)` | 37.95 | 35.47  | 32.33
+Samples Number | 4000 | 2000 | 1000
+`PSNR (dB)` | 33.97 | 33.87  | 32.22
 
 The results of each are listed separately:
 
@@ -47,20 +47,30 @@ The results of each are listed separately:
 
 ![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/8x8-3000/combined_image.png)
 ![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/8x8-3000/combined_image_com.png)
-![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/8x8-3000/combined_image_results.png)
+
+**Result: **
+
+![Image Collage]()
 
   
 * 16 x16
 
 ![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/16x16-1500/combined_image.png)
 ![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/16x16-1500/combined_image_com.png)
-![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/16x16-1500/combined_image_results.png)
+
+**Result: **
+
+![Image Collage]()
 
 * 32 x 32
 
 ![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/32x32-750/combined_image.png)
 ![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/32x32-750/combined_image_com.png)
-![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/32x32-750/combined_image_results.png)
+
+
+**Result: **
+
+![Image Collage]()
 
 
 
