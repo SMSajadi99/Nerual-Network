@@ -48,9 +48,9 @@ The results of each are listed separately:
 ![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/8x8-3000/combined_image.png)
 ![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/8x8-3000/combined_image_com.png)
 
-**Result: **
+**Result:**
 
-![Image Collage]()
+![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/8x8-3000/combined_image_results.png)
 
   
 * 16 x16
@@ -58,9 +58,9 @@ The results of each are listed separately:
 ![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/16x16-1500/combined_image.png)
 ![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/16x16-1500/combined_image_com.png)
 
-**Result: **
+**Result:**
 
-![Image Collage]()
+![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/16x16-1500/combined_image_results.png)
 
 * 32 x 32
 
@@ -68,9 +68,9 @@ The results of each are listed separately:
 ![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/32x32-750/combined_image_com.png)
 
 
-**Result: **
+**Result:**
 
-![Image Collage]()
+![Image Collage](https://github.com/SMSajadi99/Nerual-Network/blob/main/assinments/4/Method01/32x32-750/combined_image_results.png)
 
 
 
